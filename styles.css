@@ -1,0 +1,16 @@
+body{border-color: gold;
+    border-style: groove;
+    border-width: 7px;
+    border-radius: 1px;
+    }
+    body{background-color: silver;}
+h1{
+    color: black;
+    font-size: 40px;
+    font-style: oblique;
+}
+h2{color:black;
+font-size: 35ppx;
+font-style: oblique;
+}   
+ol{color:orange;}
