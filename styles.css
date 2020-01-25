@@ -1,17 +1,12 @@
-body{border-color: gold;
-    border-style: groove;
-    border-width: 10px;
-    border-radius: 5px;
-    }
-    body{background-color: silver;}
+    body{background-color: whitesmoke;}
 h1{
     color: black;
     font-size: 40px;
-    font-style: oblique;
+    font-style: 'Bangers';
 }
 h2{color:black;
 font-size: 35ppx;
-font-style: oblique;
+font-style: 'Bangers';
 }   
 ol{color:orange;}
 img{width: 300px;}
