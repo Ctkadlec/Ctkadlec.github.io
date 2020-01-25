@@ -1,12 +1,29 @@
-    body{background-color: whitesmoke;}
-h1{
-    color: black;
-    font-size: 40px;
-    font-style: 'Bangers';
+.jumbotron {
+    background-attachment: fixed;
+    background-image: url(https://www.lionheart-designs.com/inventory/jigsaw%20puzzles/Sports/University%20of%20Iowa%20jigsaw%20puzzle%2091369.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color:whitesmoke;
+    font-family: 'Bangers';
+    text-shadow: 1px 1px 1px black;
 }
-h2{color:black;
-font-size: 35ppx;
-font-style: 'Bangers';
-}   
-ol{color:orange;}
-img{width: 300px;}
+
+.container{
+    font-family: 'Bangers';
+    font-display: bold;
+    align-items:stretch;
+    font-size: 32px;
+}
+.schedule{
+    font-size: 64px;
+    background-color: grey;
+    color:gold;
+}
+.background{
+    background-color: gray;
+}
+.roster{  font-size: 64px;
+    background-color: grey;
+    color:gold;
+
+}
